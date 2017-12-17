@@ -1,0 +1,10 @@
+{
+   "fetch" : [
+         {
+             "pass" :"#ISBN9780552kytYnqOvHpoj0ukuNQEp5Gr",
+             "user" : "supreets@akamai.com.citadelqa",
+             "name" : "/Users/supreets/SalesforceMetadata/module/package.xml",
+             "target":"/Users/supreets/SalesforceMetadata/module/ant_output"
+         }
+      ]
+}

@@ -1,0 +1,22 @@
+{
+  "1":{
+       "members":["SetPartialLayout"],
+       "name": "ApexTrigger" 
+     },
+  "2": {
+  	   "members":["SetPartialLayoutTest"],
+       "name": "ApexClass"
+      },
+  "3": {
+  	   "members":["Lead-Inside Sales"],
+       "name": "Layout"
+      },
+  "4": {
+  	   "members":["PageLayoutChangeRequest__c.mButtons__c","PageLayoutChangeRequest__c.aButtons__c"],
+       "name": "CustomField"
+      },
+  "5": {
+  	   "members":["Standard","Admin"],
+       "name": "Profile"
+      }
+}
