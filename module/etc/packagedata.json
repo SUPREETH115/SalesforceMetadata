@@ -18,5 +18,9 @@
   "5": {
   	   "members":["Standard","Admin"],
        "name": "Profile"
+      },
+   "6": {
+       "members":["ChangeRequest__c"],
+       "name": "Object"
       }
 }

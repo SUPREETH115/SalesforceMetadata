@@ -1,0 +1,16 @@
+{
+	"ApexClass" : "classes" ,
+	"ApexTrigger" : "triggers" , 
+	"ApexPage" : "pages", 
+	"ApexComponent" : "components", 
+	"Scontrol" : "scontrols", 
+	"StaticResource" : "staticresources", 
+	"Profile" : "profiles", 
+	"Layout" : "layouts", 
+	"EntitlementProcess" : "entitlementProcesses", 
+	"PermissionSet" : "permissionsets", 
+	"AuraDefinitionBundle": "aura",
+	"CustomField" : "objects",
+	"CustomObject" : "objects",
+	"StandardObject" : "objects"
+}

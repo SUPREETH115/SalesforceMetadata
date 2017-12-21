@@ -1,0 +1,14 @@
+{
+        "profiles":".profile",
+        "Workflow":".workflow",
+        "objects":".object",
+        "pages":".page",
+        "components":".component",
+        "triggers":".trigger",
+        "scontrols":".scf",
+        "staticresources":".resource",
+        "classes":".cls",
+        "layouts":".layout",
+        "entitlementProcesses":".entitlementProcess",
+        "permissionsets":".permissionset"
+}
